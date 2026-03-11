@@ -1,2 +1,4 @@
 # d3d12_playground
-D3D12 testing grounds.
+A small project focused on exploring the D3D12 API.
+
+![Example](https://github.com/milkru/data_resources/blob/main/playground.png "Example")
